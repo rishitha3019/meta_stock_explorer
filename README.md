@@ -38,14 +38,7 @@ Make sure the CSV file is named `meta_stock_data.csv` and is placed in the same 
    git clone https://github.com/yourusername/meta-stock-explorer.git
    cd meta-stock-explorer
 
-Create a Virtual Environment (Optional)
-python3 -m venv venv
-source venv/bin/activate   # For macOS/Linux
-venv\\Scripts\\activate    # For Windows
-Install Dependencies
-pip install -r requirements.txt
-Run the App
-streamlit run meta_stock_app.py
+
 
 
 
